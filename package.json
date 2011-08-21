@@ -1,0 +1,11 @@
+{
+    "name": "jsapp-boilerplate"
+  , "version": "1.0.0"
+  , "private": true
+  , "dependencies": {
+      "express": "2.4.3"
+    , "jade": ">= 0.0.1"
+    , "less": ">= 0.0.1"
+    , "vows": ">= 0.0.1"
+  }
+}
